@@ -36,9 +36,9 @@ public class Main {
 
 
 
-        for (Animals a : animals) {
+        for (Animals animal : animals) {
 
-            System.out.println(a.eat());
+            System.out.println(animal.eat());
 
         }
 
