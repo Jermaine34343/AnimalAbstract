@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d71df4d1-1be9-4279-a214-0bfe03d0900e" name="Default" comment="" />
+    <list default="true" id="d71df4d1-1be9-4279-a214-0bfe03d0900e" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/abstractanimal/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/abstractanimal/Main.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,8 +18,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/abstractanimal/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="34" column="89" selection-start-line="34" selection-start-column="89" selection-end-line="34" selection-end-column="89" />
+            <state relative-caret-position="493">
+              <caret line="29" column="38" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -135,17 +137,16 @@
         <option value="$PROJECT_DIR$/src/main/java/abstractanimal/TurkeyVulture.java" />
         <option value="$PROJECT_DIR$/src/main/java/abstractanimal/TurkeyVultures.java" />
         <option value="$PROJECT_DIR$/src/main/java/abstractanimal/Animals.java" />
-        <option value="$PROJECT_DIR$/src/main/java/abstractanimal/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/abstractanimal/Wolves.java" />
         <option value="$PROJECT_DIR$/src/main/java/abstractanimal/Eagles.java" />
+        <option value="$PROJECT_DIR$/src/main/java/abstractanimal/Main.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-11" />
-    <option name="y" value="-11" />
-    <option name="width" value="981" />
-    <option name="height" value="1032" />
+    <option name="width" value="980" />
+    <option name="height" value="1020" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -283,8 +284,17 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <frame x="-7" y="0" width="653" height="680" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -526,8 +536,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/abstractanimal/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="34" column="89" selection-start-line="34" selection-start-column="89" selection-end-line="34" selection-end-column="89" />
+        <state relative-caret-position="493">
+          <caret line="29" column="38" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
         </state>
       </provider>
     </entry>

@@ -25,9 +25,9 @@ public class Main {
 
         Cat cat = new Cat("Cat");
 
-        Lion lion = new Lion ("Sassy");
+        Lion lion = new Lion ("Lion");
 
-        Tiger tiger = new Tiger("Tigris");
+        Tiger tiger = new Tiger("Tiger");
 
 
 
